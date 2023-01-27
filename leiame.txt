@@ -1,0 +1,9 @@
+Aluno(s): Lucas Ferreira dos Santos | Matrícula: 212050096
+          Rian Wagner Costa | Matrícula: 212050103
+
+<<<<<<<<INSTRUÇÕES PARA EXECUTAR O PROGRAMA>>>>>>>>
+Para compilar o programa, execute o seguinte comando:
+$ make
+
+Para executar o programa, execute o seguinte comando:
+$ ./prog <arquivo_de_entrada> <arquivo_de_saida>
